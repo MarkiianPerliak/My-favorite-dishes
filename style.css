@@ -1,0 +1,16 @@
+.textsize {
+    font-size: 60px;
+    text-align: center;
+}
+.html, body {
+background-color: goldenrod;
+}
+
+.text {
+    font-size: 50px;
+}
+
+.ptext {
+    font-size: 80px;
+    text-align: center;
+}
